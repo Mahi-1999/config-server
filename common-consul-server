@@ -1,4 +1,4 @@
-spring.cloud.consul.host=localhost
+spring.cloud.consul.host=local
 spring.cloud.consul.config.enabled=true
 logging.file=C:/elk/spring-boot-elk.log
 
